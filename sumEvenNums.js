@@ -13,3 +13,5 @@ For example, considering this input value : [4,3,1,2,5,10,6,7,9,8], then your fu
 function sumEvenNumbers(input) {
 return input.filter(a=>a%2===0).reduce((a,b)=>a+b)
 }
+
+// Update sumEvenNums
