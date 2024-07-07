@@ -23,3 +23,5 @@ For lastPlayer = "white" and win = true, the output should be "white".
 //Answer//
 
 let whoseMove=(lP, win) => win===true?lP:lP==="black"?"white":"black"
+
+// Touched for 2024
