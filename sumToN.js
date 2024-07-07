@@ -32,3 +32,5 @@ return [new Array(a+1).fill().map((x,i)=>i).join('+'), a*(a+1)/2].join(' = ')
 }
 }
 }
+
+// Touched for 2024
