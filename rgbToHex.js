@@ -20,3 +20,5 @@ const colorOf = (...rgb) => '#' + rgb.map(x => `0${x.toString(16)}`.slice(-2)).j
 //OR//
 
 let colorOf=(r,g,b)=>'#'+[r,g,b].map(x=>x.toString(16).length===1?'0'+x.toString(16):x.toString(16)).join('')
+
+// Touched for 2024
