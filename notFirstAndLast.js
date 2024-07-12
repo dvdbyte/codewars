@@ -7,3 +7,5 @@ You are given a list of character sequences as a comma separated string. Write a
 function array(arr){
 return arr.split(',').length<=2? null: arr.split(',').slice(1, -1).join(' ')
 }
+
+// Touched for 2024
