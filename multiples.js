@@ -11,3 +11,5 @@ If you can, try writing it in only one line of code.
 function findMultiples(i, l) {
 return Array(Math.floor(l/i)).fill(' ').map((_,k)=>(k+1)*i)
 }
+
+// Touched for 2024
