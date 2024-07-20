@@ -22,3 +22,5 @@ PS. regex should be case insensitive to pass the tests
 //Answer//
 
 let validateHello= (greetings)=> (/(hello|ciao|salut|hallo|hola|ahoj|czesc)/i).test(greetings)
+
+// Touched for 2024
