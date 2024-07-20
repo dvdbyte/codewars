@@ -17,3 +17,5 @@ sum(someNumbers); // should return 55
 function sum(array) {
 return array.reduce((a, b) => a + b) 
 }
+
+// Touched for 2024
