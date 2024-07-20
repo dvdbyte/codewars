@@ -9,3 +9,5 @@ Create a method none? (JS none) that accepts an array and a block (JS: a functio
 function none(arr, fun){
 return !arr.some(fun)
 }
+
+// Touched for 2024
