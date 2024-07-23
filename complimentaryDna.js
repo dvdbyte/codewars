@@ -20,3 +20,5 @@ DNAStrand ("GTAT") // return "CATA"
 function DNAStrand(dna){
 return  dna.replace(/T/g,'Z').replace(/A/g,'Y').replace(/G/g,'W').replace(/C/g,'Q').replace(/Z/g,'A').replace(/Y/g,'T').replace(/W/g,'C').replace(/Q/g,'G')
 }
+
+// Touched for 2024
