@@ -9,3 +9,5 @@ Return the resulting array.
 //Answer//
 
 let isVow = a => a.map(x=>x===117?'u':x===101?'e':x===97?'a':x===105?'i':x===111?'o':x)
+
+// Touched for 2024
