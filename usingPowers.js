@@ -13,3 +13,5 @@ Note : zero to the power of zero equals one in this kata
 function power(x,y){
 return x**y
 }
+
+// Touched for 2024
