@@ -40,3 +40,5 @@ function maxNumber(n){
 function maxNumber(n){
 return +String(n).split('').map(Number).sort((a,b)=>b-a).join('')
 }
+
+// Touched for 2024
