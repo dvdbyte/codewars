@@ -7,3 +7,5 @@ Create a combat function that takes the player's current health and the amount o
 function combat(h, d) {
 return h-d<0?0:h-d
 }
+
+// Touched for 2024
