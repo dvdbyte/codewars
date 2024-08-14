@@ -19,3 +19,5 @@ We're testing loops and string manipulation.
 function smash (words) {
 return  words.join(' ');
 }
+
+// Touched for 2024
