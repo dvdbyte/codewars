@@ -17,3 +17,5 @@ The input array should not be modified!
 function squareOrSquareRoot(array) {
   return [...array].map(x=>Number.isInteger(Math.sqrt(x))?Math.sqrt(x):x**2);  
 }
+
+// Touched for 2024
