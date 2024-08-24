@@ -24,3 +24,5 @@ nth>(''+Math.abs(num)).split('').map(Number).length ? 0 :
 (''+Math.abs(num)).split('').map(Number)[(''+Math.abs(num)).split('').map(Number).length - (nth)]
 );
 }
+
+// Touched for 2024
