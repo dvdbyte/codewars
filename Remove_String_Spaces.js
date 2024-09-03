@@ -8,3 +8,5 @@ function noSpace(x){
 let y = x.replace(/\s/g, '');
 return y;
 }
+
+// Touched for 2024
