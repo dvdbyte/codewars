@@ -11,3 +11,5 @@ If the sperm contains the X chromosome, return "Congratulations! You're going to
 //Answer//
 
 let chromosomeCheck = sperm => "Congratulations! You're going to have a "+(sperm.includes('Y')?"son.":"daughter.")
+
+// Touched for 2024
