@@ -15,3 +15,5 @@ function digitize(n) {
 const numberDigits = n.toString().split('').reverse();
 return (numberDigits).map(Number)
 }
+
+// Touched for 2024
