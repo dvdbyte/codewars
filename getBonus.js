@@ -13,3 +13,5 @@ Return the total figure the individual will receive as a string prefixed with "�
 function bonusTime(salary, bonus) {
 return  bonus===true?`£${salary*10}`:`£${salary}`
 }
+
+// Touched for 2024
