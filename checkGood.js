@@ -9,3 +9,5 @@ In this kata you need to check the provided array (x) for good ideas 'good' and 
 function well(x){
 return x.filter(x=>x==='good').length==0?'Fail!':x.filter(x=>x==='good').length<=2?'Publish!':'I smell a series!'
 }
+
+// Touched for 2024
