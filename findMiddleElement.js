@@ -21,3 +21,5 @@ let A = [...inputArray];
 A.sort((a,b)=>a-b);
 return inputArray.indexOf(A[1])
 };
+
+// Touched for 2024
