@@ -9,3 +9,5 @@ You will be given an array of all the family members' ages, in any order. The ag
 function differenceInAges(ages){
 return [Math.min(...ages),Math.max(...ages),Math.max(...ages)-Math.min(...ages)]
 }
+
+// Touched for 2024
