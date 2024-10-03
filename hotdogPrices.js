@@ -16,3 +16,5 @@ You can use if..else or ternary operator to complete it.
 // Answer//
 
 saleHotdogs=n=>n>=10?n*90:n>=5&&n<10?n*95:n*100
+
+// Touched for 2024
