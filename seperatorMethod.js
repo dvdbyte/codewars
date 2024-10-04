@@ -16,3 +16,5 @@ splitAndMerge("Hello World!", ",")     ==  "H,e,l,l,o W,o,r,l,d,!"
 function splitAndMerge(s, s1) {
 return s.split(' ').map(x=>x.split('').join(s1)).join(' ')
 }
+
+// Touched for 2024
