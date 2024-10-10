@@ -19,3 +19,5 @@ iceBrickVolume(5, 30, 7); // => 1150
 function iceBrickVolume(radius, bottleLength, rimLength) {
 return (Math.pow((radius*2), 2)*(bottleLength-rimLength))/2;
 }
+
+// Touched for 2024
