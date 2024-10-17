@@ -14,3 +14,5 @@ arr.numberOfOccurrences("a") === 0;
 Array.prototype.numberOfOccurrences = function(num) {
 return this.filter(x=>x===num).length
 }
+
+// Touched for 2024
