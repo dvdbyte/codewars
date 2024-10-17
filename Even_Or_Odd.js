@@ -6,3 +6,5 @@ Create a function (or write a script in Shell) that takes an integer as an argum
 const even_or_odd = number => { 
 return (number%2 === 0 ? 'Even' : 'Odd')
 }
+
+// Touched for 2024
