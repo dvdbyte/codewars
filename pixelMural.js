@@ -20,3 +20,5 @@ True
 //Answer//
 
 isDivisible=(w, p)=>!(w%p)
+
+// Touched for 2024
