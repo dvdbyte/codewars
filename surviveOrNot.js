@@ -9,3 +9,5 @@ Return True if yes, False otherwise :)
 function hero(bullets, dragons){
 return (dragons<=bullets/2?true:false);
 }
+
+// Touched for 2024
