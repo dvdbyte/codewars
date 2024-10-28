@@ -7,3 +7,5 @@ Refactor the solution to use as few characters as possible. There is a maximum c
 //Answer//
 
 let squaresOnly=(a)=>a.filter(x=>Number.isInteger(x**(1/2)))
+
+// Touched for 2024
