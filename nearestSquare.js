@@ -7,3 +7,5 @@ Your task is to find the nearest square number, nearest_sq(n), of a positive int
 function nearestSq(n){
 return (Math.round(n**(1/2)))**2
 }
+
+// Touched for 2024
