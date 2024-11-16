@@ -24,3 +24,5 @@ isSquare(26) returns  false
 var isSquare = function(n){
 return (n%Math.sqrt(n)===0 ? true: n===0? true:false)
 }
+
+// Touched for 2024
