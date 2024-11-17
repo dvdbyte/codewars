@@ -16,3 +16,5 @@ so any string containing no letters at all is trivially considered to be in ALL 
 String.prototype.isUpperCase = function() {
 return this.valueOf().toUpperCase() === this.valueOf();
 }
+
+// Touched for 2024
