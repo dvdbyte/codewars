@@ -5,3 +5,5 @@ Write a function that returns the total surface area and volume of a box as an a
 // Answer//
 
 getSize=(w, h, d)=>[2*((w*h)+(w*d)+(d*h)), w*h*d]
+
+// Touched for 2024
