@@ -9,3 +9,5 @@ function removeChar(str){
  const res = str.slice(1, -1);
  return res;
 };
+
+// Touched for 2024
