@@ -15,3 +15,5 @@ function validate(u, p){
   var database = new Database();
   return p.includes('//')||p.includes('||')?'Wrong username or password!':database.login(u, p);
 }
+
+// Touched for 2024
