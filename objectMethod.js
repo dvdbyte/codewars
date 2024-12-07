@@ -18,3 +18,5 @@ var Warrior = function(name){
   this.strike = (enemy, swings) => {
   enemy.health = Math.max(0, enemy.health - (swings * 10)); }  
 }
+
+// Touched for 2024
