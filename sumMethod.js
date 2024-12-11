@@ -19,3 +19,5 @@ You can assume that you do get an array and if the array is empty, return 0.
 function sum (n) {
 return n.reduce((a,b)=>a+b,0)
 };
+
+// Touched for 2024
