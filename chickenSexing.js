@@ -16,3 +16,5 @@ let count = 0
 bob.forEach((x,i)=>bob[i]==ex[i]?count++:bob[i]=='?'||ex[i]=='?'?count+=0.5:count+=0)
 return count
 }
+
+// Touched for 2024
