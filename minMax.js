@@ -7,3 +7,5 @@ Implement a function that returns the minimal and the maximal value of a list (i
 function getMinMax(arr){
 return [Math.min(...arr),Math.max(...arr)]
 };
+
+// Touched for 2024
