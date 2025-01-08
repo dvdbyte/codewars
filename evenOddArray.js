@@ -15,3 +15,5 @@ arr[i]%2?o.push(arr[i]):e.push(arr[i])
 }
 return [o,e]
 }
+
+// Touched for 2025/2026
