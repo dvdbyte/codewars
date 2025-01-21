@@ -24,4 +24,4 @@ For lastPlayer = "white" and win = true, the output should be "white".
 
 let whoseMove=(lP, win) => win===true?lP:lP==="black"?"white":"black"
 
-// Touched for 2024
+// Touched for 2025/2026
