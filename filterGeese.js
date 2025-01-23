@@ -20,4 +20,4 @@ function gooseFilter (birds) {
   return birds.filter(x=>!(geese.includes(x)))
 };
 
-// Touched for 2024
+// Touched for 2025/2026
