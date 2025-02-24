@@ -26,3 +26,5 @@ The first element 80 is the total weight of team 1, and the second element 0 is 
 function rowWeights(array){
 return [array.filter((_,i)=>!(i%2)).reduce((a, b) => a + b, 0) , array.filter((_,i)=>i%2).reduce((a, b) => a + b, 0)]
 }
+
+// Touched for 2025/2026
