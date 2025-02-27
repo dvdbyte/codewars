@@ -25,4 +25,4 @@ if (n===0) {return '0.00'} else {
 for(let i = 0; i<n; i++){N.push(1/(1+3*i))}}
 return N.reduce((a,b)=>{return a+b}).toFixed(2)}
 
-// Touched for 2024
+// Touched for 2025/2026
