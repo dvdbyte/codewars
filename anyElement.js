@@ -7,3 +7,5 @@ Create an any? (JS: any) function that accepts an array and a block (JS: functio
 function all( arr, fun ){
 return arr.every(fun)
 }
+
+// Touched for 2025/2026
