@@ -11,3 +11,5 @@ You are given 5 variables: sharkDistance = distance the shark needs to cover to 
 //Answer//
 
 let shark=(d, sd, s, ss, dolphin)=> dolphin?((d/s)<=(sd/(ss/2))?'Alive!':'Shark Bait!'):((d/s)<=(sd/ss)?'Alive!':'Shark Bait!')
+
+// Touched for 2025/2026
