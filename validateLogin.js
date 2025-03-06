@@ -16,4 +16,4 @@ function validate(u, p){
   return p.includes('//')||p.includes('||')?'Wrong username or password!':database.login(u, p);
 }
 
-// Touched for 2024
+// Touched for 2025/2026
