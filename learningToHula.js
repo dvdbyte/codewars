@@ -14,4 +14,4 @@ function hoopCount (n) {
 return n<10?"Keep at it until you get it":"Great, now move on to tricks"
 }
 
-// Touched for 2024
+// Touched for 2025/2026
