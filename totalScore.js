@@ -27,4 +27,4 @@ function points(games) {
 return games.map(x=>+x[0]-(+x[2])).map(x=>{if(x===0){return 1}else if (x<0){return 0}else{return 3}}).reduce((a,b)=>a+b)
 }
 
-// Touched for 2024
+// Touched for 2025/2026
