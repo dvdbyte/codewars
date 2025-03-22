@@ -10,4 +10,4 @@ function hero(bullets, dragons){
 return (dragons<=bullets/2?true:false);
 }
 
-// Touched for 2024
+// Touched for 2025/2026
