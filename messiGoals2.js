@@ -25,4 +25,4 @@ var copaDelReyGoals = 5
 
 var totalGoals = 58
 
-// Touched for 2024
+// Touched for 2025/2026
