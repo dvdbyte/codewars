@@ -20,4 +20,4 @@ if(i%3===0||i%5===0){N.push(i)}
 return N.reduce((a,b)=>a+b)
 } 
 
-// Touched for 2024
+// Touched for 2025/2026
