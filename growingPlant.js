@@ -60,3 +60,5 @@ The number of days that it will take for the plant to reach/pass desiredHeight (
 function growingPlant(upSpeed, downSpeed, desiredHeight) {
 return desiredHeight<upSpeed?1:(Math.ceil((desiredHeight-upSpeed)/(upSpeed-downSpeed))+1)
 }
+
+// Touched for 2025/2026
