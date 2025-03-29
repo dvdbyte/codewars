@@ -23,3 +23,5 @@ This means (x-0) * (x-1) = 0; when we do the multiplication this becomes x^2 - x
 function quadratic(x1, x2){
 return [1,(x2+x1)*-1,x1*x2]
 }
+
+// Touched for 2025/2026
