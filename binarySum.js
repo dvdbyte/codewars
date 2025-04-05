@@ -19,4 +19,4 @@ let arr2bin = arr => arr.reduce((x,y)=>x+(typeof y=="number"?y:0),0).toString(2)
 
 let arr2bin = (arr) => arr.filter(x => typeof x ==='number').reduce((a, b) => a + b,0).toString(2)
 
-// Touched for 2024
+// Touched for 2025/2026
