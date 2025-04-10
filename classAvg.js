@@ -14,4 +14,4 @@ function getAverage(marks){
   return Math.floor(M/marks.length);
 }
 
-// Touched for 2024
+// Touched for 2025/2026
