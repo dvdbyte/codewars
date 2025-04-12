@@ -17,3 +17,5 @@ const cube = x => {return x*x*x};
 const square = x => {return x*x};
 return  a.map(square).reduce(reducer)>b.map(cube).reduce(reducer)
 }
+
+// Touched for 2025/2026
