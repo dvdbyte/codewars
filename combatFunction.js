@@ -8,4 +8,4 @@ function combat(h, d) {
 return h-d<0?0:h-d
 }
 
-// Touched for 2024
+// Touched for 2025/2026
