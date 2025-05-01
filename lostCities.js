@@ -23,3 +23,5 @@ const calculateScore=(cardsArr, wager)=>cardsArr.length + wager ? (cardsArr.redu
 //OR//
 
 const calculateScore=(cardsArr, wager)=> !cardsArr.length&&!wager?0:(cardsArr.reduce((a,b)=>a+b,0)-20)*(wager+1)
+
+// Touched for 2025/2026
