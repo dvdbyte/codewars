@@ -16,3 +16,5 @@ return Number((''+num).split('').map(Number).map(square).join(''))
 
 
 The highest profit wins! - 24th exercise
+
+// Touched for 2025/2026
