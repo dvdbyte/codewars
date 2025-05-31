@@ -12,4 +12,4 @@ function area(d,l){
 return d>l? Math.round(Math.sqrt((d**2)-(l**2))*(l*100))/100 :"Not a rectangle"      }
 
 
-// Touched for 2024
+// Touched for 2025/2026
