@@ -10,4 +10,4 @@ function well(x){
 return x.filter(x=>x==='good').length==0?'Fail!':x.filter(x=>x==='good').length<=2?'Publish!':'I smell a series!'
 }
 
-// Touched for 2024
+// Touched for 2025/2026
