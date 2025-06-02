@@ -15,3 +15,5 @@ odd_or_even([0, -1, -5])  ==  "even"
 //Answer//
 
 function oddOrEven(array) {return array===[]||array.map(a=>a%2).reduce((a,b)=>(a+b),0)%2===0?"even":"odd"}
+
+// Touched for 2025/2026
