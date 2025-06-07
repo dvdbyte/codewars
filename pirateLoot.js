@@ -34,3 +34,5 @@ function Ship(draft,crew) {
 Ship.prototype.isWorthIt = function Ship(draft,crew) {
 return this.draft-(this.crew*1.5)>20
 }
+
+// Touched for 2025/2026
