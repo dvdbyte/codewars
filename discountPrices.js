@@ -18,4 +18,4 @@ function minMax(arr){
 const L = (a, b) => {return a - b};
 return [arr.sort(L)[0], arr.sort(L)[arr.length-1]]
 
-// Touched for 2024
+// Touched for 2025/2026
