@@ -25,3 +25,5 @@ const blue = (blueStart - bluePulled);
 const total = blue + (redStart - redPulled);
 return blue/total
 }
+
+// Touched for 2025/2026
