@@ -15,4 +15,4 @@ function index(array, n){
  return (n>array.length-1?-1:Math.pow(array[n],n))
 }
 
-// Touched for 2024
+// Touched for 2025/2026
