@@ -23,3 +23,5 @@ function checkNucleotides(s) {
   let answer = s.split('').findIndex(x=>x!=='C'&&x!=='G'&&x!=='U'&&x!=='A')
   return answer===-1?'Valid Sequence: '+s:'There is an invalid letter: '+s[answer]+'. At position: '+(answer+1)
   }
+
+// Touched for 2025/2026
