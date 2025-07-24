@@ -12,4 +12,4 @@ If a and b are both numbers, neither of a or b will be 0.
 
 let myFirstKata=(a,b)=> typeof a !== "number" || typeof b !== "number"?false:(a % b) + (b % a)
 
-// Touched for 2024
+// Touched for 2025/2026
