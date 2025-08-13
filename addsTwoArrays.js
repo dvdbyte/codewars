@@ -11,3 +11,5 @@ function arrayPlusArray(arr1, arr2) {
 const reducer = (a,b) => {return a + b};
   return arr1.reduce(reducer) + arr2.reduce(reducer);
 }
+
+// Touched for 2025/2026
