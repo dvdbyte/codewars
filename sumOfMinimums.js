@@ -22,3 +22,5 @@ for(let i = 0; i<arr.length; i++) {A += Math.min(...arr[i])}
 return A
 }
 
+
+// Touched for 2025/2026
