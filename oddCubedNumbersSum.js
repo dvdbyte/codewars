@@ -5,3 +5,5 @@ Find the sum of the odd numbers within an array, after cubing the initial intege
 //Answer//
 
 const cubeOdd=(a)=>a.every(x=>typeof x==="number")?a.filter(x=>x%2).reduce((a, b) => a + b**3,0):undefined
+
+// Touched for 2025/2026
