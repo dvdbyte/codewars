@@ -21,4 +21,4 @@ Remember that first is in the index 0 .. just saying ...
 
 nthterm = (a,b,c)=>a+(b*c)
 
-// Touched for 2024
+// Touched for 2025/2026
