@@ -15,3 +15,5 @@ For an undefined slope (division by 0), return undefined . Note that the "undefi
 function slope(points)
 {return points[0]===points[2]?'undefined':(points[3]-points[1])/(points[2]-points[0])+''
 }
+
+// Touched for 2025/2026
