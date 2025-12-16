@@ -12,3 +12,5 @@ Note: for the purposes of this kata you will assume that it is a square if its l
 const areaOrPerimeter = function(l , w) {
 return l===w?w*w:2*(w+l)
 };
+
+// Touched for 2025/2026
