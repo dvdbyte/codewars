@@ -12,3 +12,5 @@ n = 2  ==> [1, 2, 4]  # [2^0, 2^1, 2^2]
 function powersOfTwo(n){
   return [...new Array(n+1)].map((_,i)=>2**i)
 }
+
+// Touched for 2025/2026
