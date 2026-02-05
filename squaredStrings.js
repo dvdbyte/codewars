@@ -47,4 +47,4 @@ function oper(fct, s) {
 return fct===vertMirror?vertMirror(s):horMirror(s);
 }
 
-// Touched for 2024
+// Touched for 2025/2026
