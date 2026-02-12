@@ -22,4 +22,4 @@ function multiTable(number) {
 return Array(10).fill(" * "+number+' = ').map((x,i)=>(i+1)+x+((i+1)*number)).join('\n')
 }
 
-// Touched for 2024
+// Touched for 2025/2026
