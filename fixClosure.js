@@ -15,5 +15,3 @@ var greet_ben = function() {
 var name = 'Ben';
 return "Hello, " + name + '!';
 };
-
-// Touched for 2025/2026

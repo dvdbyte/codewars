@@ -17,5 +17,3 @@ if(n%2){n=(n*3)+1}else{n/=2}
 count++}
 return count
 }
-
-// Touched for 2025/2026

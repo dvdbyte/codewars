@@ -15,5 +15,3 @@ Assume shortenToDate's input will always be a string, e.g. "Friday May 2, 7pm". 
 function shortenToDate(longDate) {
   return longDate.split(',',1)[0]
 }
-
-// Touched for 2025/2026

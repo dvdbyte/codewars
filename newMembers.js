@@ -32,5 +32,3 @@ if (data[i][0]>=55&&data[i][1]>7) {A.push('Senior')}else{A.push('Open')}
 }
 return A
 }
-
-// Touched for 2025/2026

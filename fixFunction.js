@@ -11,5 +11,3 @@ function addFive(num) {
   var total = num + 5
   return total
 }
-
-// Touched for 2025/2026

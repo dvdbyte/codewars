@@ -17,5 +17,3 @@ If the initial velocity is non-positive, the return value should be 0
 function sakuraFall(v) {
 return v<=0?0:400/v
 }
-
-// Touched for 2025/2026

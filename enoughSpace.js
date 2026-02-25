@@ -24,5 +24,3 @@ function enough(cap, on, wait) {
 let passengers = (cap - on) - wait;
 return (passengers > 0 ? 0 : -passengers)
 }
-
-// Touched for 2025/2026

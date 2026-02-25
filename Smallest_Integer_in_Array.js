@@ -22,6 +22,4 @@ class SmallestIntegerFinder {
   findSmallestInt(args) {
     return Math.min(...args)
   }
-} 
-
-// Touched for 2025/2026
+}

@@ -14,5 +14,3 @@ The result should be an Integer.
 function cockroachSpeed(s) {
 return  Math.floor((s*100000)/3600)
 }
-
-// Touched for 2025/2026

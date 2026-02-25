@@ -50,5 +50,3 @@ formula.indexOf(3)!==-1 && formula.indexOf(4)!==-1) {return false
 formula.indexOf(7)===-1 && formula.indexOf(8)===-1){return false
 }else{return true}
 }
-
-// Touched for 2025/2026

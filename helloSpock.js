@@ -9,5 +9,3 @@ Hello, Mr. Spock
 //Answer//
 
 let sayHello=(name)=> 'Hello, '+name
-
-// Touched for 2025/2026

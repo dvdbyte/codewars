@@ -41,5 +41,3 @@ Hint: Use \n in string to jump to next line
 function pattern(n){
 return n<1? '': [...Array(n+1).keys()].slice(1).map(x=>String(x).repeat(x)).join('\n')
 }
-
-// Touched for 2025/2026

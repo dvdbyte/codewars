@@ -18,5 +18,3 @@ const A = a => {return a === 'x'||a==='X'};
 const B = b => {return b === 'o'||b==='O'};
 return (Str.filter(A).length === Str.filter(B).length? true:false)
 }
-
-// Touched for 2025/2026

@@ -11,5 +11,3 @@ Assume test input string always valid and may look like "1 year old" or "5 years
 function getAge(inputString){
 return +inputString[0]
 }
-
-// Touched for 2025/2026

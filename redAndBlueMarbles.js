@@ -12,5 +12,3 @@ If there are less than 2 blue beads return 0.
 function countRedBeads(n) {
 return n<2?0:(n-1)*2
 }
-
-// Touched for 2025/2026

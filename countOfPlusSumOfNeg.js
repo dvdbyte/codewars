@@ -19,5 +19,3 @@ const lessThan = input.filter(a => a<0);
 const greaterThan = input.filter(a => a>0);
 return [greaterThan.length, lessThan.reduce(reducer, 0)]}
 }
-
-// Touched for 2025/2026

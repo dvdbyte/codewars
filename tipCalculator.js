@@ -34,5 +34,3 @@ default: return "Rating not recognised"
 
 }
 }
-
-// Touched for 2025/2026

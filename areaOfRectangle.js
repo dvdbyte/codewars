@@ -10,6 +10,3 @@ This kata is meant for beginners. Rank and upvote to bring it out of beta!
 
 function area(d,l){
 return d>l? Math.round(Math.sqrt((d**2)-(l**2))*(l*100))/100 :"Not a rectangle"      }
-
-
-// Touched for 2025/2026

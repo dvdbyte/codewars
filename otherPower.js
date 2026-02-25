@@ -19,5 +19,3 @@ else {for(let i = 0; i < power-1; i++) {M*=number}}
 
 return M
 }
-
-// Touched for 2025/2026

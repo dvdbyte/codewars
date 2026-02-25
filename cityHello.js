@@ -12,6 +12,3 @@ This example will return the string Hello, John Smith! Welcome to Phoenix, Arizo
 function sayHello( n, c, s ) {
 return `Hello, ${n.join(' ')}! Welcome to ${c}, ${s}!`
 }
-
-// Touched for 2025/2026
-// Update cityHello

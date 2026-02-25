@@ -20,5 +20,3 @@ function yearDays(y)
 {
 return !(y%4)&&y%100||!(y%400)?y+' has 366 days':y+' has 365 days'
 }
-
-// Touched for 2025/2026

@@ -7,5 +7,3 @@ Write a function that accepts arbitrary X and Y resolutions and converts them in
 //Answer//
 
 let  = (x,y)=> [Math.ceil(y*(16/9)),y]
-
-// Touched for 2025/2026

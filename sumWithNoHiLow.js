@@ -26,5 +26,3 @@ Sort[Sort.length -1] = 0;
 return Sort.reduce(reducer);
 }
 }
-
-// Touched for 2025/2026

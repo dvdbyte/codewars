@@ -39,5 +39,3 @@ let A = 'Aa~ '.repeat(f-1)
 if(f<=6){return A+'Pa! Aa!'}else{return A+'Pa!'}
 }
 }
-
-// Touched for 2025/2026

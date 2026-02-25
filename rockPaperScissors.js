@@ -38,5 +38,3 @@ else if (p1 === 'rock' && p2 ==='paper') {
 return 'Player 2 won!'
 }
 }
-
-// Touched for 2025/2026

@@ -10,5 +10,3 @@ What is a "hello world" solution you would want to show your friends?
 //Answer//
 
 const greet = () => "hello world!"
-
-// Touched for 2025/2026

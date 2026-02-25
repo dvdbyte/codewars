@@ -40,5 +40,3 @@ default: return "Wrong, please enter a number between 1 and 7"
 
 }
 }
-
-// Touched for 2025/2026

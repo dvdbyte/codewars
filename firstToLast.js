@@ -20,5 +20,3 @@ let firstToLast = (str, c) => str.lastIndexOf(c) - Math.max(0, str.indexOf(c))
 //OR//
 
 let firstToLast = (str,c) => str.indexOf(c)===-1?-1:str.lastIndexOf(c)-str.indexOf(c)
-
-// Touched for 2025/2026

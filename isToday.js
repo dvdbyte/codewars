@@ -7,5 +7,3 @@ Make sure that your function does not return a false positive by just checking j
 //Answer//
 
 let isToday = date => date.getDay()=== new Date().getDay()
-
-// Touched for 2025/2026

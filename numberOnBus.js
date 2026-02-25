@@ -24,5 +24,3 @@ A.push(busStops[i].reduce((a,b)=>a-b))
 }
 return A.reduce((a,b)=>a+b)
 }
-
-// Touched for 2025/2026

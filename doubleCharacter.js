@@ -17,5 +17,3 @@ Str+=str[i].repeat(2);
 }
 return Str
 }
-
-// Touched for 2025/2026

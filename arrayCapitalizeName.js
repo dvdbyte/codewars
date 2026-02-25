@@ -12,5 +12,3 @@ capMe(['KARLY', 'DANIEL', 'KELSEY']) // returns ['Karly', 'Daniel', 'Kelsey']
 function capMe(names) {
 return names.map(x=>x[0].toUpperCase()+x.substring(1).toLowerCase())
 }
-
-// Touched for 2025/2026

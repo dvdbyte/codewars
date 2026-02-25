@@ -7,5 +7,3 @@ A student was working on a function and made some syntax mistakes while coding. 
 function main (verb, noun) {
   return verb + noun
 }
-
-// Touched for 2025/2026

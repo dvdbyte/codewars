@@ -38,5 +38,3 @@ function answer3(){
   //the answer should be "yes" or "no"
   return "yes";
 }
-
-// Touched for 2025/2026

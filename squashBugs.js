@@ -13,5 +13,3 @@ function findLongest (str) {
 const L = (a,b) => {return b.length-a.length};
 return str.split(" ").sort(L)[0].length;
 }
-
-// Touched for 2025/2026

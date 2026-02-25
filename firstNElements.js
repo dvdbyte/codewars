@@ -7,5 +7,3 @@ Create a method take that accepts a list/array and a number n, and returns a lis
 function take(arr, n) {
 return arr.slice(0,n)
 }
-
-// Touched for 2025/2026

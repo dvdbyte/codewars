@@ -28,5 +28,3 @@ function popElement(arr){
 arr.pop()
 return arr
 }
-
-// Touched for 2025/2026

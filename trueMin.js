@@ -15,6 +15,3 @@ function min(a, b){
 function min(a, b){
   return isNaN(a)||isNaN(a)||a===undefined||b===undefined?NaN:(a<b)?Number(a):Number(b);
 }
-
-// Touched for 2025/2026
-// Update trueMin

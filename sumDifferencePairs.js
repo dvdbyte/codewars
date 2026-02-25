@@ -21,5 +21,3 @@ function sumOfDifferences(arr) {
 function sumOfDifferences(arr) {
 return arr.sort((a,b)=>b-a).map((x,i)=>x-arr[i+1]).slice(0,arr.length-1).reduce((a, b) => a + b,0)
 }
-
-// Touched for 2025/2026

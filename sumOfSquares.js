@@ -10,5 +10,3 @@ Shorten the code such that it meets the requirements.
 //Answer//
 
 let sumSquares=arr=>arr.reduce((a, b) => a + (b*b),0)
-
-// Touched for 2025/2026

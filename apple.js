@@ -29,5 +29,3 @@ n-=n.toString().split('').reduce((a, b) => +a + +b)
 }while(n>=100)
 return fruit[n-1]
 }
-
-// Touched for 2025/2026

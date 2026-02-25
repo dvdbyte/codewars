@@ -13,5 +13,3 @@ function copyList(l){
 let L = [...l]
 return L
 }
-
-// Touched for 2025/2026

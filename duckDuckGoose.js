@@ -19,5 +19,3 @@ duck_duck_goose([$a, $b, $c, $d], 4); // => $d["name"]
 function duckDuckGoose(players, goose) {
 return players[ (goose-1)%(players.length) ].name
 }
-
-// Touched for 2025/2026

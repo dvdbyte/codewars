@@ -17,5 +17,3 @@ Examples:
 function formatMoney(a){
 return "$"+a.toFixed(2)
 }
-
-// Touched for 2025/2026

@@ -24,5 +24,3 @@ var championsLeagueGoals = 10
 var copaDelReyGoals = 5
 
 var totalGoals = 58
-
-// Touched for 2025/2026

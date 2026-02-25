@@ -21,5 +21,3 @@ The exponent will never be 1, and neither number will ever be 0
 function derive(c,e) {
   return `${c*e}x^${e-1}`
 }
-
-// Touched for 2025/2026

@@ -6,5 +6,3 @@ This code should store "codewa.rs" as a variable called name but it's not workin
 
 var name = 'codewa.rs';
 last weekRefactorDiscuss
-
-// Touched for 2025/2026

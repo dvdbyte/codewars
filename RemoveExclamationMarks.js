@@ -16,5 +16,3 @@ remove("Hi") === "Hi"
 function remove(s){
 return (s[s.length-1]==='!' ? s.slice(0,-1): s)
 }
-
-// Touched for 2025/2026

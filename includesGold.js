@@ -9,5 +9,3 @@ So, you need to check if there is gold in the bucket, and if so, return True/tru
 function checkTheBucket(bucket){
 return bucket.includes("gold")
 }
-
-// Touched for 2025/2026

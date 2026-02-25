@@ -20,5 +20,3 @@ bigToSmall([[1,1],[1],[1,1]]) should return "1>1>1>1>1"
 //Answer//
 
 let bigToSmall = A => A.reduce((a, b) => a.concat(b)).sort((a,b)=>b-a).join('>')
-
-// Touched for 2025/2026

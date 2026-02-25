@@ -24,5 +24,3 @@ elevator(0, 2, 1); // => "right"
 function elevator(left, right, call){
 return Math.abs(call-right)<=Math.abs(call-left)?'right':'left'
 }
-
-// Touched for 2025/2026

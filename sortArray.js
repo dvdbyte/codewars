@@ -8,5 +8,3 @@ Create a function that returns the elements of the input-array in a sorted manne
 function sortme ( names ){
 return names.sort()
 }
-
-// Touched for 2025/2026

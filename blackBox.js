@@ -8,5 +8,3 @@ You may need to think laterally!
 //Answer//
 
 JSopenSesame()
-
-// Touched for 2025/2026

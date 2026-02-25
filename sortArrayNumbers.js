@@ -13,5 +13,3 @@ solution(null); // should return []
 function solution(nums){
 return (nums===null?[]:nums.sort(function(a, b){return a-b}))
 }
-
-// Touched for 2025/2026

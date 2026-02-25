@@ -15,5 +15,3 @@ return s.replace(/[aeiou]/gi,'!')
   
   
 }
-
-// Touched for 2025/2026

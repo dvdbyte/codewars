@@ -10,5 +10,3 @@ isIsogram("moOse") == false // -- ignore letter case
 function isIsogram(str){
 return str.toLowerCase()===[...new Set(str.toLowerCase().split(''))].join('')
 }
-
-// Touched for 2025/2026

@@ -9,5 +9,3 @@ If two numbers in the argument array have the same number of digits, return the 
 function findLongest(array){
 return +array.map(String).sort((a,b)=>b.length-a.length)[0]
 }
-
-// Touched for 2025/2026

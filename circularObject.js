@@ -19,5 +19,3 @@ class Circular {
 }
 
 circular = new Circular();
-
-// Touched for 2025/2026

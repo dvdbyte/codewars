@@ -12,5 +12,3 @@ Style Points (JS/CoffeeScript only): This kata only tests for data that uses obj
 function keysAndValues(data){
 return [Object.keys(data), Object.values(data)]
 }
-
-// Touched for 2025/2026

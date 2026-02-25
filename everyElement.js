@@ -8,5 +8,3 @@ Otherwise, it should return false. If the array is empty, it should return true,
 function any(arr, fun){
 return arr.some(fun)
 }
-
-// Touched for 2025/2026

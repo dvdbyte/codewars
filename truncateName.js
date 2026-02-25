@@ -14,5 +14,3 @@ If the number of the characters in name is equal or less than two, it will retur
 function whoIsPaying(n){
 return n.length<=2?[n]:[n,n[0]+n[1]]
 }
-
-// Touched for 2025/2026

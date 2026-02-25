@@ -9,5 +9,3 @@ uefaEuro2016(['Portugal', 'Iceland'],[1, 1]) // "At match Portugal - Iceland, te
 //Answer//
 
 let uefaEuro2016=(teams, scores)=> `At match ${teams.join(' - ')}, ${scores[0]>scores[1]?teams[0]+' won!': scores[1]>scores[0]?teams[1]+' won!':'teams played draw.'}`
-
-// Touched for 2025/2026

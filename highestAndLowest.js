@@ -24,5 +24,3 @@ function highAndLow(numbers){
 const min = (a, b) => {return a-b}
 return `${numbers.split(' ').sort(min)[numbers.split(' ').sort(min).length-1]} ${numbers.split(' ').sort(min)[0]}`;
 }
-
-// Touched for 2025/2026

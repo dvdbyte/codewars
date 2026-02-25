@@ -22,5 +22,3 @@ age = 17   =>   15-20
 //Answer//
 
 let datingRange=(age)=>age<15?(age-Math.ceil(age*0.10))+'-'+(age+Math.floor(age*0.10)):(Math.floor(age/2)+7)+"-"+((age-7)*2)
-
-// Touched for 2025/2026

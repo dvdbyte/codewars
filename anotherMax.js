@@ -23,5 +23,3 @@ function getMax2()
   }
   return max;
 }
-
-// Touched for 2025/2026

@@ -17,5 +17,3 @@ aliasGen('123abc', 'Petrovic') === 'Your name must start with a letter from A - 
 //Answer//
 
 let aliasGen=(a,b)=>(/[A-Z]/).test(a.toUpperCase()[0])&&(/[A-Z]/).test(b.toUpperCase()[0])?`${firstName[a.toUpperCase()[0]]} ${surname[b.toUpperCase()[0]]}`:"Your name must start with a letter from A - Z."
-
-// Touched for 2025/2026

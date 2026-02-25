@@ -1,4 +1,3 @@
-
 Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero digits.
 
 Examples:
@@ -12,5 +11,3 @@ n = 12, x = 7, y = 5 => false because 12 is neither divisible by 7 nor 5
 function isDivisible(n, x, y) {
 return (n % x == 0 && n % y == 0)
 }
-
-// Touched for 2025/2026

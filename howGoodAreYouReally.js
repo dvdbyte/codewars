@@ -17,6 +17,3 @@ let All = classPoints.reduce(reducer) + yourPoints;
 let avg = All / Class;
 return (yourPoints > avg ? true : false)
 }
-
-// Touched for 2025/2026
-// Update howGoodAreYouReally

@@ -9,5 +9,3 @@ let trueOrFalse = val => Boolean(val).toString()
 //Or//
 
 let trueOrFalse= val => val?'true':'false'
-
-// Touched for 2025/2026

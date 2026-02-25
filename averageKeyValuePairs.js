@@ -15,5 +15,3 @@ If the array has 0 or 1 values or is null or None, your method should return an 
 function averages(n) {
 return n===null?[]:n.slice(1).map((x,i)=>(x+n[i])/2);
 }
-
-// Touched for 2025/2026

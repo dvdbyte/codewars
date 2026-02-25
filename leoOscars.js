@@ -16,5 +16,3 @@ return o===88?"Leo finally won the oscar! Leo is happy":
 o===86?"Not even for Wolf of wallstreet?!":
 o<88&&o!==86?"When will you give Leo an Oscar?":"Leo got one already!"
 }
-
-// Touched for 2025/2026

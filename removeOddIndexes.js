@@ -19,5 +19,3 @@ return arr.filter((_,i)=>!(i%2))
 function removeEveryOther(arr){
 return arr.filter((_,i)=>i%2===0)
 }
-
-// Touched for 2025/2026

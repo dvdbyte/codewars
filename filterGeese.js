@@ -19,5 +19,3 @@ function gooseFilter (birds) {
   var geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
   return birds.filter(x=>!(geese.includes(x)))
 };
-
-// Touched for 2025/2026

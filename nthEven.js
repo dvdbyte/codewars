@@ -14,5 +14,3 @@ The input will not be 0.
 function nthEven(n){
 return (n*2)-2
 }
-
-// Touched for 2025/2026

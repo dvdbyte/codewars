@@ -12,6 +12,3 @@ timeForMilkAndCookies(new Date(3000, 11, 24))  // true
 //Answer//
 
 let timeForMilkAndCookies=(date)=> date.getMonth()===11
-
-
-// Touched for 2025/2026

@@ -28,5 +28,3 @@ finalGrade(20, 2);    // 0
 finalGrade = (e, p) => {
 if(e>90||p>10){return 100}else if(e>75&&p>4){return 90}else if(e>50&&p>1){return 75}else{return 0}
 }
-
-// Touched for 2025/2026

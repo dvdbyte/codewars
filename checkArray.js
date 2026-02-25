@@ -14,6 +14,3 @@ With strings you will need to account for case.
 
 function check(a,x){
 return a.indexOf(x)===-1?false:true};
-
-
-// Touched for 2025/2026

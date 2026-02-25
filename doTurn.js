@@ -21,5 +21,3 @@ combat();
 getCoins();
 buyHealth();
 printStatus
-
-// Touched for 2025/2026

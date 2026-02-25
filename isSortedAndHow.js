@@ -16,5 +16,3 @@ case a.every((x,i)=>i===0||x>=a[i-1]): return 'yes, ascending'; break;
 default: return 'no'
 }
 }
-
-// Touched for 2025/2026

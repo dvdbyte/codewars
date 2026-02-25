@@ -20,5 +20,3 @@ For an example list of 1, 3, 5, 7
 var findAverage = function (nums) {
 return nums.reduce((a, b) => a + b)/nums.length
 }
-
-// Touched for 2025/2026

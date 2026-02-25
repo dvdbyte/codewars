@@ -16,5 +16,3 @@ function getGrade (s1, s2, s3) {
 const S = (s1+s2+s3)/3
 return  (S<60?'F':S<70?'D':S<80?'C':S<90?'B':'A')
 }
-
-// Touched for 2025/2026

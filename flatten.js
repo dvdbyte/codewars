@@ -11,5 +11,3 @@ flatten([[[1,2,3]]]) // => [[1,2,3]]
 var flatten = function (array){
 return array.reduce((a,b)=>a.concat(b),[])
 }
-
-// Touched for 2025/2026

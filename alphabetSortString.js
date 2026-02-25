@@ -20,5 +20,3 @@ sortGiftCode( 'zyxwvutsrqponmlkjihgfedcba' ); //=> returns 'abcdefghijklmnopqrst
 function sortGiftCode(code){
 return code.split('').sort().join('')
 }
-
-// Touched for 2025/2026

@@ -29,5 +29,3 @@ const b = 7 * `${salads}`
 const c = 6.5 * `${wraps}`
 const d = 1.2 * `${frenchFries}`
 let totalPrice = a + b + c + d
-
-// Touched for 2025/2026

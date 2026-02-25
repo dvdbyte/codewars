@@ -15,5 +15,3 @@ Floats are considered UNeven for this kata.
 function testEven(n) {
 return !(n%2)
 }
-
-// Touched for 2025/2026

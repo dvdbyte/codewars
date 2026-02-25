@@ -10,5 +10,3 @@ function twoSort(s) {
 const S = s.sort();
 return S[0].split('').join('***')
 }
-
-// Touched for 2025/2026

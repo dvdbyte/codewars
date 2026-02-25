@@ -28,5 +28,3 @@ error_printer(s) => "8/22"
 function printerError(s) {s.replace(/[a-m]/gi,'')
 return `${s.replace(/[a-m]/gi,'').length}/${s.length}`
 }
-
-// Touched for 2025/2026

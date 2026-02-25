@@ -16,5 +16,3 @@ function evalObject(value){
   }
   return result;
 }
-
-// Touched for 2025/2026

@@ -8,5 +8,3 @@ function getStatus(isBusy) {
 return {
     status: isBusy ? "busy" : "available"
   }
-
-// Touched for 2025/2026

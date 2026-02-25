@@ -16,5 +16,3 @@ one([1, 3, 5, 6, 5, 1, 3], bigger_than_ten) -> false
 function one(arr, fun){
 return arr.filter(fun).length===1
 }
-
-// Touched for 2025/2026

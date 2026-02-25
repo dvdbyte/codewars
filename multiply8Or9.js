@@ -8,5 +8,3 @@ function simpleMultiplication(number) {
     // your code........
     return (number%2===0 ? number*8: number*9)
 }
-
-// Touched for 2025/2026

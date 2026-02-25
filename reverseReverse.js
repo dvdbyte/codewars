@@ -11,5 +11,3 @@ let A =[]
 array.map(a=>A.splice(0,0,a))
 return A
 }
-
-// Touched for 2025/2026

@@ -19,5 +19,3 @@ return Number(n.toString().split('').sort('').reverse().join(''));
 function descendingOrder(n){
 return Number(n.toString().split('').sort('').reverse().valueOf('').join(''));
 }
-
-// Touched for 2025/2026

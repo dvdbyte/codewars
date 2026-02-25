@@ -18,5 +18,3 @@ NOTE: this is indexed from [1..n] (not zero indexed!)
 function vowelIndices(word){
 return word.split('').map((x,i)=>x=='a'||x=='e'||x=='i'||x=='o'||x=='u'||x=='y'||x=='A'||x=='E'||x=='I'||x=='O'||x=='U'||x=='Y'?i+1:'a').filter(Number)
 }
-
-// Touched for 2025/2026

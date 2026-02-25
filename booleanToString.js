@@ -18,5 +18,3 @@ You'll get to worry about these enough in later exercises.
 function booleanToString(b){
 return (b===true?'true':'false') //your code here
 }
-
-// Touched for 2025/2026

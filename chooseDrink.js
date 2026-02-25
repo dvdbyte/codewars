@@ -27,5 +27,3 @@ case 'rapper': return 'Cristal';break;
 default: return 'Beer'
 }
 }
-
-// Touched for 2025/2026

@@ -19,5 +19,3 @@ if(this.length===0){return 0} else{
 return (this.length)*(this[0]+this[this.length-1])/2
 }
 }
-
-// Touched for 2025/2026

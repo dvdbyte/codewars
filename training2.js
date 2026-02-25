@@ -31,5 +31,3 @@ function equal5(){
   var b= v3  //set number value to b
   return a%b;
 }
-
-// Touched for 2025/2026

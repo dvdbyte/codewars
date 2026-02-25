@@ -12,5 +12,3 @@ function sumTwoSmallestNumbers(numbers) {
 const min = numbers.sort(function(a, b){return a -b })
 return min[0]+min[1];
 }
-
-// Touched for 2025/2026

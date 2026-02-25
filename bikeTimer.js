@@ -40,5 +40,3 @@ The sum of the digits the digital timer would show.
 function lateRide(n) {
 return (''+Math.floor((n/60))+(n%60)).split('').map(Number).reduce((a,b)=>{return a+b})
 }
-
-// Touched for 2025/2026

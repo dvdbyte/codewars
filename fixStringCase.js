@@ -13,5 +13,3 @@ solve("coDE") = "code". Upper == lowercase. Change all to lowercase.
 //Answer//
 
 const solve=s=>s.split('').filter(x=>x.toUpperCase()==x).length<=s.length/2?s.toLowerCase():s.toUpperCase()
-
-// Touched for 2025/2026

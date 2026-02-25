@@ -11,5 +11,3 @@ Return value as boolean values, true for the string to contains "English", false
 //Answer//
 
 let spEng = s => s.search(/(english)/i)>=0
-
-// Touched for 2025/2026

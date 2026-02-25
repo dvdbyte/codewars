@@ -14,5 +14,3 @@ should return
 function multiples(m, n){
 return [...Array(m)].map((_,i)=>(i+1)*n)
 }
-
-// Touched for 2025/2026

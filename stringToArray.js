@@ -11,5 +11,3 @@ Write a function to split a string and convert it into an array of words. For ex
 function stringToArray(string){
 return string.split(' ')
 }
-
-// Touched for 2025/2026

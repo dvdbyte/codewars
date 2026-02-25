@@ -16,5 +16,3 @@ function disemvowel(str) {
 const Str = str.replace(/a/gi,'').replace(/e/gi,'').replace(/i/gi,'').replace(/o/gi,'').replace(/u/gi,'');
 return Str;
 }
-
-// Touched for 2025/2026

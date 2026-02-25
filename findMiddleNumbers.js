@@ -32,5 +32,3 @@ if (A.length%2===0) {return Number(A[((A.length/2)-1)]+A[(A.length/2)])
 } else {return Number( A[Math.floor(A.length/2)]) }
 }
 }
-
-// Touched for 2025/2026

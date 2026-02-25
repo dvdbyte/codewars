@@ -11,5 +11,3 @@ The answer should be rounded to the nearest 2 decimal places.
 //Answer//
 
 let howMuchWater = (w, c, l) => l>2*c?'Too much clothes':l<c?'Not enough clothes':+(w * (1.1 **(l-c))).toFixed(2)
-
-// Touched for 2025/2026

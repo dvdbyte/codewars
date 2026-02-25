@@ -16,5 +16,3 @@ The coefficient and exponent is always a positive integer.
 function integrate(c, e) {
 return ''+(c/(e+1))+'x^'+(e+1)
 }
-
-// Touched for 2025/2026

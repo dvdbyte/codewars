@@ -11,5 +11,3 @@ const reducer = (a, b) => {return a+b};
 const square = x => {return x**2};
 return numbers===[]?0:numbers.map(square).reduce(reducer, 0)
 }
-
-// Touched for 2025/2026

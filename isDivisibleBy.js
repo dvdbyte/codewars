@@ -11,5 +11,3 @@ divisibleBy([1, 2, 3, 4, 5, 6], 2) == [2, 4, 6]
 const divisibleBy=(n, d)=>{
 return n.filter(x=>x%d===0)
 }
-
-// Touched for 2025/2026

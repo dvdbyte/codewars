@@ -11,5 +11,3 @@ If your language supports it, try using a switch statement.
 //Answer//
 
 const switchItUp=(n)=>['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine'][n]
-
-// Touched for 2025/2026

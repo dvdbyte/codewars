@@ -13,5 +13,3 @@ Go show some truth who's boss!
 function ifChuckSaysSo(){
 return !true
 }
-
-// Touched for 2025/2026

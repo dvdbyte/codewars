@@ -47,5 +47,3 @@ The number of people who sit strictly behind you and in your column or to the le
 
 
 let seatsInTheater = (nCols, nRows, col, row) => (nCols+1-col)*(nRows-row)
-
-// Touched for 2025/2026

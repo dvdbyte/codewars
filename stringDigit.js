@@ -7,5 +7,3 @@ Implement String#digit? (in Java StringUtils.isDigit(String)), which should retu
 String.prototype.digit = function() {
   return (/[0-9]/g).test(this)&&this.length===1
 };
-
-// Touched for 2025/2026

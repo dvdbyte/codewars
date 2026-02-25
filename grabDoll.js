@@ -23,5 +23,3 @@ continue;
 } 
   return bag;
 }
-
-// Touched for 2025/2026

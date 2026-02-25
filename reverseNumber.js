@@ -11,5 +11,3 @@ Examples
 
 //Answer//
 let reverseNumber=(n)=> n<0?+('-'+n.toString().split('').reverse().slice(0,n.toString().length-1).join('')):+n.toString().split('').reverse().join('')
-
-// Touched for 2025/2026

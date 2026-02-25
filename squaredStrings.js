@@ -46,5 +46,3 @@ return strng.split('\n').reverse().join('\n')
 function oper(fct, s) {
 return fct===vertMirror?vertMirror(s):horMirror(s);
 }
-
-// Touched for 2025/2026

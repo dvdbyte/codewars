@@ -11,5 +11,3 @@ function squareArea(A){
 const answer = Math.pow((2*A)/(Math.PI), 2);
 return Math.floor(answer*100)/100
 }
-
-// Touched for 2025/2026

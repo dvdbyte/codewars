@@ -17,5 +17,3 @@ cutIt(["codewars","javascript","java"]) should return ["code","java","java"]
 //Answer//
 
 let cutIt = a => a.map(x=>x.substr(0,Math.min(...a.map(x=>x.length))))
-
-// Touched for 2025/2026

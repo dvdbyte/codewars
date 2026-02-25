@@ -7,5 +7,3 @@ You are running the calculation 2 + 2 * 2 + 2 * 2 and expect to get the answer 3
 function orderOperations () {
   return (2 + 2) * ( 2 + 2 ) * 2
 }
-
-// Touched for 2025/2026

@@ -31,8 +31,3 @@ function bmi(weight, height) {
   else if (B > 30.0) {
   return "Obese"}
   }
-  
-
-  
-
-// Touched for 2025/2026

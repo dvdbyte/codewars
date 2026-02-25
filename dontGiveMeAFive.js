@@ -31,5 +31,3 @@ if (`${i}`.split('').findIndex((a)=>a==='5')===-1){A.push(i)}
 }
 return A.length
 }
-
-// Touched for 2025/2026

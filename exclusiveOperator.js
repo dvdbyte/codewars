@@ -19,5 +19,3 @@ Your xor function should have the behaviour described above, returning true if e
 function xor(a, b) {
 return a!==b
 }
-
-// Touched for 2025/2026

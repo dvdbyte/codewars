@@ -12,5 +12,3 @@ function capitalizeWord(word) {
  word = word[0].toUpperCase()+word.slice(1);
   return word;
 }
-
-// Touched for 2025/2026

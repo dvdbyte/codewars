@@ -16,5 +16,3 @@ and return a string like this:
 function animal(obj){
   return `This ${obj.color} ${obj.name} has ${obj.legs} legs.`
 }
-
-// Touched for 2025/2026

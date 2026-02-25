@@ -13,5 +13,3 @@ function binToDec(bin){
 function binToDec(bin){
 return bin.split('').reverse().map((x,i)=>x*(2**i)).reduce((a, b) => a + b)
 }
-
-// Touched for 2025/2026

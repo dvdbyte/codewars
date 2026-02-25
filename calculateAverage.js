@@ -8,5 +8,3 @@ function find_average(array) {
   const reducer = (a, b) => a + b;
   return array.reduce(reducer)/array.length;
 }
-
-// Touched for 2025/2026

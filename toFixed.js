@@ -26,5 +26,3 @@ Math.roundTo = (number, precision) => Number(number.toFixed(precision));
 Math.roundTo = function (n, p) {
 return (Math.round(Math.pow(10,p)*n))/Math.pow(10,p)
 }
-
-// Touched for 2025/2026

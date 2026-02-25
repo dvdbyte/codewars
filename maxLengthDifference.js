@@ -25,5 +25,3 @@ return Math.max(Math.max(...A)-Math.min(...B), Math.max(...B)-Math.min(...A))
 
 }
 }
-
-// Touched for 2025/2026

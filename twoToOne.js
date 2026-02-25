@@ -17,5 +17,3 @@ longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 function longest(s1, s2) {
 return Array.from(new Set((s1+s2).split('').sort())).join('')
 }
-
-// Touched for 2025/2026

@@ -11,5 +11,3 @@ The expected result is a boolean, indicating whether you have any good arrows le
 //Answer//
 
 let anyArrows = (arrows)=> arrows.some(x =>x.damaged!==true )
-
-// Touched for 2025/2026

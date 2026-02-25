@@ -13,5 +13,3 @@ In this kata, the toFreud() function will take a string as its argument, and ret
 function toFreud(string) {
 return string.length===0?'':string.split(' ').fill('sex').join(' ')
 }
-
-// Touched for 2025/2026

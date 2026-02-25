@@ -21,5 +21,3 @@ P. S. You can use \n in string to jump to the next line.
 function multiTable(number) {
 return Array(10).fill(" * "+number+' = ').map((x,i)=>(i+1)+x+((i+1)*number)).join('\n')
 }
-
-// Touched for 2025/2026

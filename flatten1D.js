@@ -17,5 +17,3 @@ mxdiflg(a1, a2) --> 13
 var flatten = function (array){
 return array.reduce((a,b)=>a.concat(b),[])
 }
-
-// Touched for 2025/2026

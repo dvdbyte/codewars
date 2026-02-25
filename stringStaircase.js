@@ -28,5 +28,3 @@ xyxyxyxyxy  <---The effect when you console.log it
 //Answer//
 
 let fiveLine = s => Array(5).fill(0).map((_,i)=>s.trim().repeat(i+1)).join('\n')
-
-// Touched for 2025/2026

@@ -26,5 +26,3 @@ Tests round answers to 6 decimal places.
 //Answer//
 
 let circleArea=(circle)=> Math.PI*(circle.radius**2)
-
-// Touched for 2025/2026

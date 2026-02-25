@@ -19,5 +19,3 @@ function spam(number){
 function spam(number){
   return "hue".repeat(number);
 }
-
-// Touched for 2025/2026

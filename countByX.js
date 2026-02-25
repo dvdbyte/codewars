@@ -18,5 +18,3 @@ const C=[];
 for(let i = x; i <= x*n; i+=x) { C.push(i);}
 return C
 }
-
-// Touched for 2025/2026

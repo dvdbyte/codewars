@@ -20,5 +20,3 @@ c-=(c*e)
 }
 return day
 }
-
-// Touched for 2025/2026

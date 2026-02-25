@@ -14,5 +14,3 @@ const M=[];
 for (let i = 0; i < array.length; i++) { M.push(-array[i]);}
 return M;
 }
-
-// Touched for 2025/2026

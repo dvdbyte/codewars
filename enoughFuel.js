@@ -13,5 +13,3 @@ The input values are always positive.
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 return (distanceToPump <= mpg*fuelLeft ? true : false);
 };
-
-// Touched for 2025/2026

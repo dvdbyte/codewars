@@ -27,5 +27,3 @@ let chicken = h-((l-(2*h))/2)
 let cow = (l-(2*h))/2
 return !((cow*chicken)%1)&&cow>=0&&chicken>=0?[chicken,cow]:'No solutions'
 }
-
-// Touched for 2025/2026

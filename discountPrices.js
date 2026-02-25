@@ -17,5 +17,3 @@ All arrays or lists will always have at least one element, so you don't need to 
 function minMax(arr){
 const L = (a, b) => {return a - b};
 return [arr.sort(L)[0], arr.sort(L)[arr.length-1]]
-
-// Touched for 2025/2026

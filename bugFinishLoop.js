@@ -13,5 +13,3 @@ function createArray(number){
   
   return newArray;
 }
-
-// Touched for 2025/2026

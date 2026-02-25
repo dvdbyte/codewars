@@ -15,5 +15,3 @@ time = 11.8--> litres = 5
 function litres(time) {
   return Math.floor(time/2);
 }
-
-// Touched for 2025/2026

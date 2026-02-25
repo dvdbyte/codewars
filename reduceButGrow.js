@@ -7,5 +7,3 @@ Given a non-empty array of integers, return the result of multiplying the values
 function grow(x){
 return x.reduce((a,b)=>{return a*b})
 }
-
-// Touched for 2025/2026

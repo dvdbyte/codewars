@@ -23,5 +23,3 @@ if (numbers===[]) {return numbers}
 else {N.splice(Number(N.indexOf(Math.min(...N))), 1)}
 return N
 }
-
-// Touched for 2025/2026

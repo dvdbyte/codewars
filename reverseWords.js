@@ -12,5 +12,3 @@ reverseWords("The greatest victory is that which requires no battle")
 function reverseWords(str){
   return str.split(' ').reverse().join(' '); // reverse those words
 }
-
-// Touched for 2025/2026

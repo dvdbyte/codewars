@@ -13,5 +13,3 @@ function getAverage(marks){
   const M = marks.reduce(reducer, 0);
   return Math.floor(M/marks.length);
 }
-
-// Touched for 2025/2026

@@ -8,5 +8,3 @@ if(n%i===0){count++}
 return count
 }
 }
-
-// Touched for 2025/2026

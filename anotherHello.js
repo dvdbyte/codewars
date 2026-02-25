@@ -16,5 +16,3 @@ hello ''       => "Hello, World!" # name is an empty String
 function hello(name="World!") {
 return name===''||name==="World!"?'Hello, World!':`Hello, ${name[0].toUpperCase()+name.slice(-name.length+1).toLowerCase()}!`;
 }
-
-// Touched for 2025/2026

@@ -11,5 +11,3 @@ This change machine is programmed to accept and distribute strings rather than n
 //Answer//
 
 let changeMe = m => m==='£5'?'20p '.repeat(25).trim():m==='£2'?'20p '.repeat(10).trim():m==='£1'?'20p 20p 20p 20p 20p':m==='50p'?'20p 20p 10p':m==='20p'?'10p 10p':m
-
-// Touched for 2025/2026

@@ -13,5 +13,3 @@ twoOldestAges( [1, 2, 10, 8] ) // should return [8, 10]
 function twoOldestAges(ages){
 return ages.sort(function(a, b){return a-b}).slice(ages.length-2, ages.length)
 }
-
-// Touched for 2025/2026

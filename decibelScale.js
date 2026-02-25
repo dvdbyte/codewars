@@ -20,5 +20,3 @@ Results are automatically rounded to the nearest integer by the test cases.
 function dBScale(i) {
 return 10*(Math.log10(i/(10**-12)))
 }
-
-// Touched for 2025/2026

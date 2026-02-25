@@ -37,5 +37,3 @@ var scoobydoo = new Dog("Great Dane");
 scoobydoo.bark = function() {
   return "Woof";
 };
-
-// Touched for 2025/2026

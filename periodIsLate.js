@@ -15,5 +15,3 @@ If the today is later from last than the cycleLength, the function should return
 //Answer//
 
 let periodIsLate=(last, today, cycleLength)=> (today-last)/(86400000)>cycleLength
-
-// Touched for 2025/2026

@@ -20,5 +20,3 @@ A.push(i)
 return A.reduce((a,b)=>a*b,1)
 } 
 }
-
-// Touched for 2025/2026

@@ -15,5 +15,3 @@ basicOp('/', 49, 7)        // Output: 7
 
 let basicOp = (operation, value1, value2) => { return eval(`${value1}` + `${operation}` + `${value2}`)
 }
-
-// Touched for 2025/2026

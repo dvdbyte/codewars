@@ -11,5 +11,3 @@ You have to write a function that determine if a number is Evil of Odious, funct
 //Answer//
 
 let evil=n=>n.toString(2).split('').filter(x=>x==='1').length%2?"It's Odious!":"It's Evil!"
-
-// Touched for 2025/2026

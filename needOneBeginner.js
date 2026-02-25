@@ -13,5 +13,3 @@ function check(a, x) {
   let answer = a.indexOf(x)
   return (answer >= 0 ? true : false)
 }
-
-// Touched for 2025/2026
